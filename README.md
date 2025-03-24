@@ -157,6 +157,20 @@ Key influential features:
 
 ---
 
+## 📈 Results Summary
+
+| Model               | Accuracy | Highlights                          |
+|--------------------|---------|------------------------------------|
+| Logistic Regression | 80.8%   | Baseline, lower recall for churn   |
+| Random Forest       | 86.1%   | Strong precision/recall balance    |
+| XGBoost             | 85.3%   | Excellent accuracy & explainability|
+| LightGBM            | 86.2%   | High accuracy, fast training       |
+
+---
+
+
+---
+
 ## 📥 Dataset Source
 [Bank Customer Churn Dataset](https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers)
 
@@ -166,6 +180,3 @@ Key influential features:
 This project demonstrates a complete pipeline from EDA to advanced model tuning and interpretation, providing actionable insights to reduce churn.
 
 ---
-
-**Ready to use! You can copy-paste the above README.md directly.**  
-Shall I prepare and give you the complete `requirements.txt` and cleaned `.ipynb` notebook next?
