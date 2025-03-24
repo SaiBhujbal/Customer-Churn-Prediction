@@ -37,8 +37,8 @@ Key goals:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Customer-Churn-Prediction.git
-cd customer-churn-prediction
+git clone [https://github.com/yourusername/Customer-Churn-Prediction.git](https://github.com/SaiBhujbal/Customer-Churn-Prediction.git)
+cd Customer-Churn-Prediction
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
