@@ -15,7 +15,7 @@ Key goals:
 
 ```
 ├── data
-│   └── BankChurnData.csv            # Dataset used
+│   └── Churn_Modelling.csv           # Dataset used
 ├── images
 │   ├── churn_distribution.png      # Churn distribution visualization
 │   ├── correlation_heatmap.png     # Feature correlation heatmap
