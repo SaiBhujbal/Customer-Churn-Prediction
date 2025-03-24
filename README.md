@@ -37,7 +37,7 @@ Key goals:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/yourusername/Customer-Churn-Prediction.git
 cd customer-churn-prediction
 ```
 
